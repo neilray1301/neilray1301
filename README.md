@@ -6,9 +6,8 @@
 <h3 align="center">I'm a Certified Scrum Master, Analyst, Software Engineer, and all-around tech enthusiast passionate about leveraging data and software to drive results. With experience in Agile methodologies, project management, and analytics, I specialize in creating solutions that balance innovation and functionality.</h3>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neilray1301&label=Profile%20views&color=0e75b6&style=flat" alt="neilray1301" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neilray1301" alt="neilray1301" /></a> </p>
+<!---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neilray1301" alt="neilray1301" /></a> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,11 +39,14 @@
 <img src="https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=flat-square"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square"><img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff&style=flat-square">
 
 
+<br>
 
+<img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> <b>My Github Stats:<br>
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=neilray1301&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApoorvTyagi&theme=dark)](https://git.io/streak-stats)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=neilray1301&label=Profile%20views&color=0e75b6&style=flat" alt="neilray1301" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neilray1301&show_icons=true&locale=en&layout=compact" alt="neilray1301" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neilray1301&show_icons=true&locale=en" alt="neilray1301" /></p>
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
