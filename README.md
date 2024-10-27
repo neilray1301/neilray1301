@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Neil Ray</h1>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22"/></h2>
+</p>
+
+
 <h3 align="center">I'm a Certified Scrum Master, Analyst, Software Engineer, and all-around tech enthusiast passionate about leveraging data and software to drive results. With experience in Agile methodologies, project management, and analytics, I specialize in creating solutions that balance innovation and functionality.</h3>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neilray1301&label=Profile%20views&color=0e75b6&style=flat" alt="neilray1301" /> </p>
 
@@ -11,32 +16,35 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> </p>
+<p align="left"> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+ <img alt="Python" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+   <img alt="Python" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+   <img alt="Python" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+   <img alt="Python" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square"></br>
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat-square">
+   <img alt="Python" src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=flat-square" />
+   <img alt="Python" src="https://img.shields.io/badge/Scrum%20Alliance-009FDA?logo=scrumalliance&logoColor=fff&style=flat-square" />
+   <img alt="Python" src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=fff&style=flat-square" />
+    <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat-square">
+    <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat-square">
+    <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=fff&style=flat-square">
+    <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat-square">
+    <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat-square">
+    <img src="https://img.shields.io/badge/Apache%20Hadoop-6CF?logo=apachehadoop&logoColor=fff&style=flat-square"><img src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=flat-square">
+<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=flat-square">
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square">
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square"><img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=flat-square">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat-square">
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square">
+<img src="https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=flat-square"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square"><img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff&style=flat-square">
+
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neilray1301&show_icons=true&locale=en&layout=compact" alt="neilray1301" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neilray1301&show_icons=true&locale=en" alt="neilray1301" /></p>
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
