@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neil Ray</h1>
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22"/></h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Hope+you+are+well&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22"/></h2>
 </p>
 
 
